@@ -1,0 +1,1 @@
+type .\HelloWorld.exe in your terminal
